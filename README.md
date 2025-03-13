@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Filippo 
 
-<!--
-**MrGAMBE/MrGambe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education  
+- **Bachelor’s Degree** in Computer Engineering – University of Pisa  
+- **Master’s Degree (in progress)** in Artificial Intelligence and Data Engineering  
 
-Here are some ideas to get you started:
+## 💡 About Me  
+I am passionate about artificial intelligence, software development, and problem-solving.  
+I love writing code and constantly learning new things. My main interests include:  
+- Developing AI projects that help people solve real-world problems 🤖  
+- Deep Learning and Neural Networks 🧠  
+- Data Science and Big Data 📊  
+- Software Development and Optimization 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages:** Python, Java, C, C++, PHP, JavaScript, Assembly  
+- **Web Development:** HTML, CSS, JavaScript, PHP  
+- **Databases:** MySQL, MongoDB  
+- **AI & ML:** TensorFlow, PyTorch, Scikit-Learn  
+- **Tools & DevOps:** Git, Linux  
+
+## 📫 Get in Touch  
+- Email: [your.email@example.com](mailto:filippogambelli03@gmail.com)  
+
+🚀 Always eager to develop innovative AI solutions and explore new technologies! 
