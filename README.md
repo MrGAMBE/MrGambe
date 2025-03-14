@@ -20,6 +20,6 @@ I love writing code and constantly learning new things. My main interests includ
 - **Tools & DevOps:** Git, Linux  
 
 ## 📫 Get in Touch  
-- Email: [your.email@example.com](mailto:filippogambelli03@gmail.com)  
+- Email: [filippogambelli03@gmail.com](mailto:filippogambelli03@gmail.com)  
 
 🚀 Always eager to develop innovative AI solutions and explore new technologies! 
